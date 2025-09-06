@@ -27,4 +27,3 @@
         </div>
     <?php endwhile; ?>
 </div>
-<p>⚠️ Please <a href="?page=login">login</a> first.</p>
